@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkerlyson&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="height: 195px !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkerlyson&layout=compact&theme=vue-dark" />
+  <img align="top" style="height: 195px !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkerlyson&layout=compact&theme=vue-dark" />
 </a>
 
 
