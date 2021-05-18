@@ -19,7 +19,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" heigth="40"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" heigth="40"></img>
 
+  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkerlyson&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" style="height: 195px !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkerlyson&layout=compact&theme=vue-dark" />
+</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkerlyson&show_icons=true&theme=vue-dark)
+
+
+
 
